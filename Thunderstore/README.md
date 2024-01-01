@@ -3,20 +3,30 @@ A lethal company mod that add a new boombox with Yakuza/Like a Dragon songs.
 
 ## Songs
 
-- Yakuza 0 OST - I'm Gonna Make Her Mine
-- Yakuza 0 OST - Koi No Disco Queen
-- Yakuza 0 OST - Queen of Passion
+- Yakuza 0 - 24 hour Cinderella
+- Yakuza 0 - Baka Mitai
+- Yakuza 0 - Heart break mermaid
+- Yakuza 0 - I'm Gonna Make Her Mine
+- Yakuza 0 - x3 SHINE
+- Yakuza 0 - Koi No Disco Queen
+- Yakuza 0 - Queen of Passion
 - Yakuza Kiwami - Iji Sakura
 - Yakuza Kiwami 2 - Majima Construction
-- Yakuza Ishin - Ichizu Samurai
-- Yakuza Ishin - Samurai Ondo
+- Yakuza 5 - Rouge of Love
 - Yakuza Like a Dragon - Hell Stew
 - Yakuza Like a Dragon - Machine Gun Kiss - Adachi
 - Like a Dragon Gaiden - Like a Butterfly - Akame
+- Yakuza Ishin - Ichizu Samurai
+- Yakuza Ishin - Samurai Ondo
+
+
+
 
 ## Other
 
-Due to current mod limitations, I can't add more than 15 songs.
-I don't know the Yakuza/Like a Dragon universe well; 
-I have made this mod for my friends and you. ;)
-the song was choosen by my friends
+Due to the current limitations of the mod, I can only include up to 15 songs.
+
+I'm not very familiar with the Yakuza/Like a Dragon universe. This mod was created for my friends and for you. :)
+
+The songs were chosen by my friends.
+
