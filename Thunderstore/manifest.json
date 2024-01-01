@@ -1,0 +1,9 @@
+{
+    "name": "Yakuza_Boombox",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "add a new boombox with Yakuza songs to Lethal company",
+    "dependencies": [
+	"Alice-YourOwnPersonalBoombox-1.2.0"
+    ]
+}
